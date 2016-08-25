@@ -56,8 +56,6 @@ Now imagine that we gently pluck the string exactly halfway between the ends. As
 This is an example of a 'standing wave'. It does not run up and down the string like waves on the surface of the sea, but vibrates up and down. If the vibration (or 'oscillation') is as simple as that shown in Figure 2, a point at the centre of the string moves in a simple, repeating pattern called a sine wave (see Figure 3). We call this pattern the oscillation's 'waveform', and the frequency with which the waveform completes one 'cycle' is called the 'fundamental' frequency of the string.
 
 
-[![](/images/sos/may99/images/synthfigs2.s.gif)][3]
-
 
 The fundamental mode is, however, not the only way in which the string can vibrate -- although because it is fixed at both ends, the number of ways and the speeds with which it can do so are severely constrained. Imagine placing your finger in the exact centre of the string (but so that the string can still vibrate along its entire length) and plucking it on one side or the other. You can see from Figure 4 that a standing wave with half the wavelength of the original looks perfectly feasible.
 
@@ -112,6 +110,9 @@ _Every harmonic is present, and the amplitude of the nth harmonic is 1/n times t
 
 
 OK, so it doesn't look so simple when written in English but, believe me, there are far nastier ones than this. Anyway, Figure 7 shows the first 10 harmonics in a sawtooth wave, and you can see how they taper off at higher and higher frequencies.
+
+
+[![](/images/sos/may99/images/synthfigs2.s.gif)][3]
 
 
 But what happens if you truncate this series of harmonics? Let's say you remove all but the first five of them (for which you need a device called a 'filter'). Figure 8 shows this spectrum, and Figure 9 shows the waveform to which it corresponds.
