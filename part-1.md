@@ -47,7 +47,7 @@ But why did Pythagoras's strings have integer relationships? Why weren't similar
 To start answering this, let's consider a stretched string that is fixed at both ends, but free to vibrate along its length. Figure 1 shows such a string at rest.
 
 
-[![](/images/sos/may99/images/synthfigs1.s.gif)][2]
+[![](/images/sos/may99/images/synthfigs1.l.gif)][2]
 
 
 Now imagine that we gently pluck the string exactly halfway between the ends. As you might imagine, this causes it to vibrate in the way shown in Figure 2\.
@@ -112,7 +112,7 @@ _Every harmonic is present, and the amplitude of the nth harmonic is 1/n times t
 OK, so it doesn't look so simple when written in English but, believe me, there are far nastier ones than this. Anyway, Figure 7 shows the first 10 harmonics in a sawtooth wave, and you can see how they taper off at higher and higher frequencies.
 
 
-[![](/images/sos/may99/images/synthfigs2.s.gif)][3]
+[![](/images/sos/may99/images/synthfigs2.l.gif)][3]
 
 
 But what happens if you truncate this series of harmonics? Let's say you remove all but the first five of them (for which you need a device called a 'filter'). Figure 8 shows this spectrum, and Figure 9 shows the waveform to which it corresponds.
